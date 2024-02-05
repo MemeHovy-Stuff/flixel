@@ -12,6 +12,7 @@ import openfl.ui.Mouse;
 import flixel.FlxG;
 import flixel.input.IFlxInputManager;
 import flixel.input.FlxInput.FlxInputState;
+import flixel.input.mouse.FlxMouseButton;
 import flixel.input.mouse.FlxMouseButton.FlxMouseButtonID;
 import flixel.system.FlxAssets;
 import flixel.system.replay.MouseRecord;
